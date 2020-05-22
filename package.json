@@ -1,0 +1,28 @@
+{
+  "name": "saml-idp",
+  "version": "1.0.0",
+  "description": "SAML IdP written in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "saml",
+    "sso",
+    "saml-idp",
+    "nodejs",
+    "idp",
+    "idp-initiated"
+  ],
+  "author": "Dinesh Budhayer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "express-session": "1.17.1",
+    "passport": "0.4.1",
+    "passport-local": "1.0.0",
+    "samlp": "3.4.1"
+  }
+}
