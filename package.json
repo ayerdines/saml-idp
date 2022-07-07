@@ -26,6 +26,6 @@
     "samlp": "3.4.1"
   },
   "devDependencies": {
-    "moment": ">=2.19.3"
+    "moment": ">=2.29.4"
   }
 }
